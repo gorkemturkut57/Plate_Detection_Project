@@ -5,8 +5,6 @@
 
 This project focuses on detecting and recognizing license plates from images and videos using advanced image processing, machine learning, and deep learning techniques. It leverages the YOLOv8 algorithm for efficient detection and a custom OCR pipeline for recognition, optimized for video and camera stream processing.
 
-![License Plate Detection Example](examples/example.png) <!-- Replace with actual image link -->
-
 ## Table of Contents
 
 - [Project Description](#project-description)
