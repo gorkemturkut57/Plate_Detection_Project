@@ -155,12 +155,6 @@ Here are some examples of detected and recognized license plates:
 
 ![Detection Result 7](examples/example7.png)
 
-### Grad-CAM Visualizations
-
-These visualizations help understand where the model is focusing during detection:
-
-![Grad-CAM Example](examples/gradcam_example.png) <!-- Replace with actual image link -->
-
 ## Contributing
 
 We welcome contributions to enhance the project's features and capabilities. Please fork the repository and create a pull request for any changes or improvements.
